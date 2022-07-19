@@ -1,0 +1,38 @@
+{
+  "name": "pharmeasyclone",
+  "version": "1.0.0",
+  "description": "PharmEasy is one of India's most trusted online pharmacy &amp; medical stores offering pharmaceutical and healthcare products. Shop from multiple categories like Diabetes, stomach care, Baby care etc. Exciting deals available on hot selling products. PharmEasy offers 1 lakh+ medicines and health products across various categories through its retail partners which are spread across the country.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RanjanPriya12/PharmEasyClone.git"
+  },
+  "engines": {
+    "node": "16.15.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RanjanPriya12/PharmEasyClone/issues"
+  },
+  "homepage": "https://github.com/RanjanPriya12/PharmEasyClone#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "config": "3.3.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "express-validator": "^6.14.2",
+    "fast-two-sms": "^3.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.4.4",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.19",
+    "uuid": "^8.3.2"
+  }
+}
