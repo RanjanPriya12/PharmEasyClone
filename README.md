@@ -1,0 +1,2 @@
+# PharmEasyClone
+PharmEasy is one of India's most trusted online pharmacy &amp; medical stores offering pharmaceutical and healthcare products. Shop from multiple categories like Diabetes, stomach care, Baby care etc. Exciting deals available on hot selling products. PharmEasy offers 1 lakh+ medicines and health products across various categories through its retail partners which are spread across the country.
